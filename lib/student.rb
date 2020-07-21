@@ -1,7 +1,8 @@
 
 class Student
 
-def initialize
+  def hello
 
+  end
 
 end
