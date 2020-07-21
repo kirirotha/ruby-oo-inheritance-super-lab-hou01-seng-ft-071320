@@ -8,6 +8,10 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    super
+    index = 0
+    while index < 10 do
+      super
+      index ++
+    end
   end
 end
