@@ -6,4 +6,3 @@ class ChattyStudent
   end
 
 end
-
